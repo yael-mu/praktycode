@@ -27,11 +27,11 @@ builder.Services.AddDbContext<ToDoDBContext>(options=>
 var app = builder.Build();
 
 // Swagger הפעלת 
-if (app.Environment.IsDevelopment())  
-{
+//if (app.Environment.IsDevelopment())  
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 // cors הפעלת ה 
 app.UseCors();
@@ -66,4 +66,7 @@ app.MapDelete("/items/{id}", async (ToDoDBContext context, int id) =>
     await context.SaveChangesAsync();
     return Results.NoContent();
 });
+
+app.MapGet("/",()=>"TodoApi is running");
+
 app.Run();
