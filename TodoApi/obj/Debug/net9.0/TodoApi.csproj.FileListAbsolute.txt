@@ -213,7 +213,5 @@ C:\Users\Yael Munsa\Desktop\פקטיקוד\project3\TodoApi\obj\Debug\net9.0\ref
 C:\Users\Yael Munsa\Desktop\פקטיקוד\project3\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\Users\Yael Munsa\Desktop\פקטיקוד\project3\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\Users\Yael Munsa\Desktop\פקטיקוד\project3\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
-C:\Users\Yael Munsa\Desktop\פקטיקוד\project3\TodoApi\bin\Debug\net9.0\my_render\package-lock.json
-C:\Users\Yael Munsa\Desktop\פקטיקוד\project3\TodoApi\bin\Debug\net9.0\my_render\package.json
 C:\Users\Yael Munsa\Desktop\פקטיקוד\project3\TodoApi\bin\Debug\net9.0\package-lock.json
 C:\Users\Yael Munsa\Desktop\פקטיקוד\project3\TodoApi\bin\Debug\net9.0\package.json
